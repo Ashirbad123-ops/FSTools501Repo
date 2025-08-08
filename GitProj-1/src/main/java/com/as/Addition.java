@@ -9,7 +9,7 @@ public class Addition {
 	
 	public double sub(double x, double y)
 	{
-		return x-y;
+		
 	}
 
 }
